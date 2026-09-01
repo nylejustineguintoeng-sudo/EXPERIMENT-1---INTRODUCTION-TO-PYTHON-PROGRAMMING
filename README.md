@@ -1,7 +1,6 @@
 # Experiment 1: Introduction to Python Programming
 **Name:** Guinto, Nyle Justine C.  
 **Section:** 2ECE-A 
-**Date Submitted:** [01/09/2026]
 
 ## Overview
 This repository contains solutions for Experiment 1 in Python. The activity focuses on basic operations, string manipulation, and sequence unpacking without using external libraries.
