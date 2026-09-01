@@ -1,2 +1,23 @@
-# EXPERIMENT-1---INTRODUCTION-TO-PYTHON-PROGRAMMING
-Implementation of custom Python functions (rotate_word, make_username, swap_bookends) using string slicing, method chaining, and sequence unpacking without external libraries.
+# Experiment 1: Introduction to Python Programming
+
+## Overview
+This repository contains solutions for Experiment 1 in Python. The activity focuses on basic operations, string manipulation, and sequence unpacking without using external libraries.
+
+## Problems Implemented
+
+### 1. Word Rotation Problem (`rotate_word`)
+Rotates a non-empty string by moving the first character to the end while preserving capitalization and character order.
+* **Concepts:** String slicing and indexing.
+
+### 2. Username Builder Problem (`make_username`)
+Creates a formatted username by converting names to lowercase, stripping spaces, and joining them with a period.
+* **Concepts:** String methods (`lower()`, `replace()`), string concatenation.
+
+### 3. Bookend Swap Problem (`swap_bookends`)
+Swaps the first and last elements of a list while maintaining the order of middle elements.
+* **Concepts:** Extended sequence unpacking (`first, *middle, last = items`).
+
+## Requirements & Constraints
+* Written in Jupyter Notebook (`.ipynb`).
+* Uses pure Python (no external libraries).
+* Avoids loops and custom classes.
