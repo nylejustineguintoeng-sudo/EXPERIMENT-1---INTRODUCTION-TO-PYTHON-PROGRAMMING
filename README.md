@@ -1,6 +1,7 @@
 # Experiment 1: Introduction to Python Programming
 **Name:** Guinto, Nyle Justine C.  
 **Section:** 2ECE-A 
+
 **Date Submitted:** [01/09/2026]
 
 ## Overview
